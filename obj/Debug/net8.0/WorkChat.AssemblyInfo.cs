@@ -11,10 +11,11 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.AspNetCore.Identity.UI.UIFrameworkAttribute("Bootstrap5")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("WorkChat")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2abbb064745e3623b77a282042a2f034f8ecff54")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7f0541fb54ad05f73592c97cb96efb69607036f3")]
 [assembly: System.Reflection.AssemblyProductAttribute("WorkChat")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WorkChat")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
