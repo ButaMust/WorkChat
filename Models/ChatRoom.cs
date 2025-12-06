@@ -12,6 +12,6 @@
         public AppUser CreatedByUser { get; set; } = null!;
 
         public ICollection<ChatRoomParticipant> Participants { get; set; } = new List<ChatRoomParticipant>();
-        public ICollection<Message> Messages { get; set; } = new List<Messages>();
+        public ICollection<Message> Messages { get; set; } = new List<Message>();
     }
 }
