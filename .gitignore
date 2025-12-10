@@ -1,0 +1,6 @@
+bin/
+obj/
+out/
+obj/Debug
+bin/Debug
+out/Debug
